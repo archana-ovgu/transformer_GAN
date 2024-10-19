@@ -1,0 +1,13 @@
+{"time":"2024-10-13T14:20:42.019117851+02:00","level":"INFO","msg":"started logging, with flags","port-filename":"/tmp/tmp7oa5dzv1/port-4011224.txt","pid":4011224,"debug":false,"disable-analytics":false}
+{"time":"2024-10-13T14:20:42.019184922+02:00","level":"INFO","msg":"FeatureState","shutdownOnParentExitEnabled":false}
+{"time":"2024-10-13T14:20:42.019700807+02:00","level":"INFO","msg":"Will exit if parent process dies.","ppid":4011224}
+{"time":"2024-10-13T14:20:42.019622986+02:00","level":"INFO","msg":"server is running","addr":{"IP":"127.0.0.1","Port":43443,"Zone":""}}
+{"time":"2024-10-13T14:20:42.209166444+02:00","level":"INFO","msg":"created new connection","id":"127.0.0.1:43336"}
+{"time":"2024-10-13T14:20:42.987060773+02:00","level":"INFO","msg":"connection init received","streamId":"xkcsrl9y","id":"127.0.0.1:43336"}
+{"time":"2024-10-13T14:20:42.987771919+02:00","level":"ERROR","msg":"error creating symlink","error":"symlink /home/ymax29os/.cache/wandb/logs/core-debug-20241013_142042.log /home/ymax29os/GANs/ams_project-2/transformer_GAN/wandb/run-20241013_142042-xkcsrl9y/logs/debug-core.log: file exists"}
+{"time":"2024-10-13T14:20:42.990299415+02:00","level":"INFO","msg":"connection init completed","streamId":"xkcsrl9y","id":"127.0.0.1:43336"}
+{"time":"2024-10-13T14:21:06.610781554+02:00","level":"INFO","msg":"connection: teardown","id":"127.0.0.1:43336"}
+{"time":"2024-10-13T14:21:06.610888445+02:00","level":"INFO","msg":"server is shutting down"}
+{"time":"2024-10-13T14:21:06.611012716+02:00","level":"INFO","msg":"closed connection","id":"127.0.0.1:43336"}
+{"time":"2024-10-13T14:21:09.400262032+02:00","level":"INFO","msg":"connection closed","id":"127.0.0.1:43336"}
+{"time":"2024-10-13T14:21:09.400283692+02:00","level":"INFO","msg":"server is closed"}

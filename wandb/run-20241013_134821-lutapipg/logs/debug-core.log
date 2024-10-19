@@ -1,0 +1,13 @@
+{"time":"2024-10-13T13:48:19.349678972+02:00","level":"INFO","msg":"started logging, with flags","port-filename":"/tmp/tmpuyf79jow/port-3797811.txt","pid":3797811,"debug":false,"disable-analytics":false}
+{"time":"2024-10-13T13:48:19.349738773+02:00","level":"INFO","msg":"FeatureState","shutdownOnParentExitEnabled":false}
+{"time":"2024-10-13T13:48:19.350215677+02:00","level":"INFO","msg":"Will exit if parent process dies.","ppid":3797811}
+{"time":"2024-10-13T13:48:19.350174367+02:00","level":"INFO","msg":"server is running","addr":{"IP":"127.0.0.1","Port":45401,"Zone":""}}
+{"time":"2024-10-13T13:48:19.542731093+02:00","level":"INFO","msg":"created new connection","id":"127.0.0.1:42708"}
+{"time":"2024-10-13T13:48:21.135221035+02:00","level":"INFO","msg":"connection init received","streamId":"lutapipg","id":"127.0.0.1:42708"}
+{"time":"2024-10-13T13:48:21.136389847+02:00","level":"ERROR","msg":"error creating symlink","error":"symlink /home/ymax29os/.cache/wandb/logs/core-debug-20241013_134819.log /home/ymax29os/GANs/ams_project-1/transformer_GAN/wandb/run-20241013_134821-lutapipg/logs/debug-core.log: file exists"}
+{"time":"2024-10-13T13:48:21.150913624+02:00","level":"INFO","msg":"connection init completed","streamId":"lutapipg","id":"127.0.0.1:42708"}
+{"time":"2024-10-13T13:50:50.564507212+02:00","level":"INFO","msg":"connection: teardown","id":"127.0.0.1:42708"}
+{"time":"2024-10-13T13:50:50.567598724+02:00","level":"INFO","msg":"server is shutting down"}
+{"time":"2024-10-13T13:50:50.567741225+02:00","level":"INFO","msg":"closed connection","id":"127.0.0.1:42708"}
+{"time":"2024-10-13T13:50:51.738349739+02:00","level":"INFO","msg":"connection closed","id":"127.0.0.1:42708"}
+{"time":"2024-10-13T13:50:51.738374989+02:00","level":"INFO","msg":"server is closed"}
