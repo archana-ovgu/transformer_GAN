@@ -1,7 +1,7 @@
 # Generative Adversarial Networks for Time Series Synthetic Data Generation for CNC Machines
 
 ## Description
-This project implements a **transformer-based Generative Adversarial Network (GAN)** for generating synthetic time-series data related to the performance of CNC machines. The generated data includes attributes like movement (X, Y, Z coordinates), force, and acceleration, which can be used to analyze and predict the machine's energy requirements. By synthesizing this data, it becomes possible to improve energy efficiency and predict future performance trends without needing constant physical measurements from the machine.
+This project implements a **transformer-based Generative Adversarial Network (GAN)** for generating synthetic time-series data related to the performance of CNC machines. The generated data includes attributes like movement (X, Y, Z coordinates), force, and velocity of the spindle, which can be used to analyze and predict the machine's energy requirements. By synthesizing this data, it becomes possible to improve energy efficiency and predict future performance trends without needing constant physical measurements from the machine.
 
 ## Features
 
