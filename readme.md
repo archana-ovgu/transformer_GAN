@@ -16,7 +16,7 @@ This project implements a **transformer-based Generative Adversarial Network (GA
   - **PCA (Principal Component Analysis)**
   - **t-SNE (t-distributed Stochastic Neighbor Embedding)**
 
-- **Model Performance Tracking**: We are utilising the weights and biases library to track the performance of our model. With this, we are getting a dashboard with all the evaluation and performance measure.
+- **Model Performance Tracking**: We are utilising the weights and biases library to track the performance of our model. With this, we are getting a dashboard with all the evaluation metrics and other performance measures.
 
 ## Structure:
 
